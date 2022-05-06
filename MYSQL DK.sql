@@ -1,0 +1,13 @@
+	-- 	table nxtdata;
+-- alter table nxtdata modify column nid int first;
+-- desc nxtdata;-- 
+-- select * from nxtdata;
+-- select distinct college from nxtdata;
+ -- select * from nxtdata order by name asc limit 1,2;
+-- alter table nxtdata add salary varchar(10);
+ -- insert into nxtdata(salary) values(30000);
+-- alter table nxtdata drop primary key;
+-- select name from nxtdata order by length(city) asc;
+-- select dayname('20-52-2001') from nxtdata;
+-- alter table nxtdata add primary key(nid);
+-- alter table nxtdata alter salary set default 30000;

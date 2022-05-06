@@ -1,0 +1,14 @@
+eid,ename,salary,deptid,designation,mgrid,commission,gender,hiredate
+1,Pankaj,120000,10,Manager,NULL,30000,M,2015-02-05
+2,Nitin,80000,10,Manager,1,15000,M,2013-06-21
+3,Sonali,50000,20,Developer,2,5000,f,2017-03-05
+4,Anshita,60000,20,Analyst,2,NULL,f,2017-01-25
+5,Jayant,30000,30,Analyst,1,20000,M,2017-03-18
+6,Abhinav,70000,20,Trainer,1,4000,M,2016-04-23
+7,Vaibhav,40000,30,Developer,1,NULL,M,2016-08-12
+8,Rashmita,15000,20,HRHead,1,6000,f,2015-04-15
+9,Neha,67000,20,Trainer,2,12000,f,2013-03-19
+10,Rajnish,40000,30,Technician,1,0,m,2013-05-27
+11,Gunjan,34000,30,Assistant,2,NULL,f,2017-03-29
+12,Deepak,30000,40,Developer,3,1000,M,2022-04-04
+13,Aakash,35000,40,Developer,1,5000,M,2022-04-04
